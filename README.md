@@ -66,11 +66,7 @@ UI/UX Designer &amp; Web Developer passionate about creating intuitive digital e
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kherrazmaroua00&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kherrazmaroua00&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/kherrazmaroua00">kherrazmaroua00</a></i></p>
